@@ -1,0 +1,12 @@
+{
+  "currentUser": {
+    "name": "User McName",
+    "hasDonated": false
+  },
+  "campaign": {
+    "amountRaised": 333,
+    "targetAmount": 500,
+    "daysRemaining": 3,
+    "numberOfDonors": 42
+  }
+}
